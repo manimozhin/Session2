@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first branch-merging
+=======
+first branch-merging 2
+>>>>>>> firstbranch
